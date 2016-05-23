@@ -1,4 +1,4 @@
-## RAT.jar
+## RAT
 
 This package contains a jar file which checks the given code satisfies CERT coding standard. RAT.jar is used to process large number of source code written in java. It won't compile and generate the class file, it will only verifies the coding standard violation. So input should be an error free(completed successful compilation) java file.
 
