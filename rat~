@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -jar /usr/lib/rat/rat.jar $1 $2 $3
