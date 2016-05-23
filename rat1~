@@ -1,3 +1,0 @@
-#!/bin/bash
-
-java -jar ~/Desktop/rat_package/rat.jar $1 $2 $3
